@@ -34,8 +34,3 @@ A **React Native** app designed to empower women by providing essential financia
    npx expo start
      
 
-**Future Enhancements:**  
-🚀 **AI-powered financial insights** – Smart investment suggestions based on user behavior.  
-🚀 **Gamified Learning** – Interactive financial education modules.  
-🚀 **Multi-language support** – Broader accessibility for diverse users.  
-
