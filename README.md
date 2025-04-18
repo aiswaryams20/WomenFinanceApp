@@ -31,6 +31,9 @@ A **React Native** app designed to empower women by providing essential financia
    
 4️⃣ Run the app:  
    
-   npx expo start
+  npx expo start
+
+   **App Demonstration:**  
+    https://drive.google.com/file/d/1nGPn1aqFzyZ64lwc859yUNlXVHdwKSg0/view?usp=drive_link
      
 
